@@ -27,6 +27,11 @@
   pango,
   systemd,
   pciutils,
+  libnotify,
+  pipewire,
+  libsecret,
+  libpulseaudio,
+  speechd-minimal,
 }:
 
 version: hashes:
@@ -117,6 +122,11 @@ let
       pciutils
       stdenv.cc.cc
       systemd
+      libnotify
+      pipewire
+      libsecret
+      libpulseaudio
+      speechd-minimal
     ]
     ++ lib.optionals (lib.versionAtLeast version "9.0.0") [
       libdrm
