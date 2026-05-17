@@ -16,8 +16,8 @@
   },
   {
     "pname": "BouncyCastle.Cryptography",
-    "version": "2.6.1",
-    "hash": "sha256-0NNwK/UZlnIK4Nb7bs4ya0XfoVluKQPUVQvaR88UHKo="
+    "version": "2.6.2",
+    "hash": "sha256-Yjk2+x/RcVeccGOQOQcRKCiYzyx1mlFnhS5auCII+Ms="
   },
   {
     "pname": "Castle.Core",
@@ -121,8 +121,8 @@
   },
   {
     "pname": "MailKit",
-    "version": "4.14.0",
-    "hash": "sha256-vAFqKaKvLUUiFbpu1mJdL/W5CIlb6rh3U6ef883g+Bs="
+    "version": "4.15.1",
+    "hash": "sha256-ZI2ASxX1dY53YxWRii0Dow4aojR8VCEWzCWZLrH7wPw="
   },
   {
     "pname": "Microsoft.ApplicationInsights",
@@ -476,8 +476,8 @@
   },
   {
     "pname": "MimeKit",
-    "version": "4.14.0",
-    "hash": "sha256-06dqA6w2V2D+miq387smCuJ/8fk1FVc0rvRjmglAWyM="
+    "version": "4.15.1",
+    "hash": "sha256-MI4Wr+JWoxR9wsYhKmW8j1EdJ59W/O4jv5D9Zb8mEUw="
   },
   {
     "pname": "Mono.Nat",
@@ -817,8 +817,8 @@
   },
   {
     "pname": "SixLabors.ImageSharp",
-    "version": "3.1.11",
-    "hash": "sha256-MlRF+3SGfahbsB1pZGKMOrsfUCx//hCo7ECrXr03DpA="
+    "version": "3.1.12",
+    "hash": "sha256-FR8v74w4P/1AZdW5ARW0y8zgDqLtvhxQmL1CKv68xR0="
   },
   {
     "pname": "SourceGear.sqlite3",

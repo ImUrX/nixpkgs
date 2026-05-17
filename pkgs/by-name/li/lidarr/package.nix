@@ -18,7 +18,7 @@
   applyPatches,
 }:
 let
-  version = "3.1.0.4875";
+  version = "3.1.2.4938";
   # The dotnet8 compatibility patches also change `yarn.lock`, so we must pass
   # the already patched lockfile to `fetchYarnDeps`.
   src = applyPatches {
@@ -26,7 +26,7 @@ let
       owner = "Lidarr";
       repo = "Lidarr";
       tag = "v${version}";
-      hash = "sha256-RCJlToQw96U8seZaD/QCPL1Pn42yw5iXFWGJCHSHwQw=";
+      hash = "sha256-NJagGx7/wkxilA8nomeAqEOIi2/4rOj1ui41yUlWxe4=";
     };
     postPatch = ''
       mv src/NuGet.config NuGet.Config
